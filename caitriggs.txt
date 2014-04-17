@@ -1,2 +1,3 @@
 lab_00 https://github.com/caitriggs/dev-challenge
 lab_01 https://github.com/caitriggs/dev-sprint0.git
+lab_02 (sprint 1) https://github.com/caitriggs/dev-sprint1.git
